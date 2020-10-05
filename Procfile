@@ -1,1 +1,1 @@
-web: RomaGo
+web: romago
