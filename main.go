@@ -9,7 +9,7 @@ import (
 )
 
 const (
-	webhook = " https://intense-wildwood-16802.herokuapp.com/"
+	webhook = "https://romago.herokuapp.com/"
 )
 
 func main() {
