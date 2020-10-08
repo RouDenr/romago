@@ -1,1 +1,1 @@
-web: bin/romago
+web: romago
