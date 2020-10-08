@@ -15,6 +15,7 @@ const (
 func main() {
 	port := os.Getenv("PORT")
 	go func() {
+		log.Println("PORT CRASH")
 		log.Fatal(http.ListenAndServe(":"+port, nil))
 	}()
 
